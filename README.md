@@ -6,7 +6,7 @@ Project created to follow the Spring roadmap, available in the website: https://
 1. Spring Core (Click to open the Readme files)
    1.  [Configuration](configuration/README.md)
    2.  [Dependency Injection](dependency-injection/README.md)
-
+   3.  [Inversion of Control (IoC)](inversion-of-control/README.md)
 
 <hr>
 
