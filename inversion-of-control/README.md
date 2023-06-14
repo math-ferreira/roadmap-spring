@@ -21,8 +21,11 @@ Overall, Spring IoC container provides a central location to manage the lifecycl
 
 ### Reference Documentation
 For further reference, please consider the following sections:
-- https://medium.com/edureka/what-is-dependency-injection-5006b53af782
+- https://www.baeldung.com/inversion-control-and-dependency-injection-in-spring
 
 
 ### Additional Links
 These additional references should also help you:
+- https://www.studytonight.com/spring-framework/qualifier-annotation
+- https://www.baeldung.com/spring-boot-lazy-initialization
+- https://stackoverflow.com/questions/15092898/spring-default-behavior-for-lazy-init
